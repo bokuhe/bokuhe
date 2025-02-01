@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<!--
 > DearMe - Best choice for mindfulness (Korean only)
 > 
 > [Play Store](https://play.google.com/store/apps/details?id=net.sleiv.dearme)
-
+-->
 <!--
 **bokuhe/bokuhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
